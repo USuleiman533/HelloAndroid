@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="udacity_text_size">34sp</dimen>
+    <dimen name="other_text_size">24sp</dimen>
+    <dimen name="marginbot">6dp</dimen>
+</resources>
